@@ -1,1 +1,1 @@
-From ikubernetes/filebeat:5.6.5-alpine
+FROM ikubernetes/filebeat:5.6.5-alpine
