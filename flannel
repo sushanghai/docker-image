@@ -1,1 +1,1 @@
-FROM docker.io/jmgao1983/flannel:0.11.0
+FROM jmgao1983/flannel:v0.11.0-amd64
