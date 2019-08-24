@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:0.11.0
+FROM quay.io/coreos/flannel:latest
