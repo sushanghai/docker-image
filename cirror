@@ -1,2 +1,2 @@
 #build
-FROM docker.io/library/cirror:latest
+FROM docker.io/library/cirror
