@@ -1,0 +1,2 @@
+#构建jenkins
+FROM jenkins/jenkins:lts-jdk17
