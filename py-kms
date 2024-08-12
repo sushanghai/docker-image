@@ -1,0 +1,1 @@
+FROM pykmsorg/py-kms:latest
